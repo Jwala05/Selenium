@@ -2,7 +2,7 @@
 <suite name="Suite">
   <test name="Regression">
     <classes>
-      <class name="JLearnPOM.BaseTest"/>
+      <class name="runTricon.BaseTest"/>
     </classes>
   </test>
 </suite>
